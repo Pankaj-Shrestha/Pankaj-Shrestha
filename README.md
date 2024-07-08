@@ -4,7 +4,7 @@
 🌱 I’m currently a Computer Science and Engineering Student at Techniche Hochschule Cologne
 
 ## Contact me
-💬 linkedin.com/in/pankaj-shrestha-8b63b3167
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itpankajshrestha)
 
 <!--
 **Pankaj-Shrestha/Pankaj-Shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
