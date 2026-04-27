@@ -23,4 +23,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/11b878c3-84bf-4393-b0fd-9641a87fe0cb" />
